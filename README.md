@@ -25,6 +25,9 @@ If you want to share your theme:
 
 # Themes
 ## Breeze Dark
+### Link 
+Here is the link for [Breeze Dark.](https://github.com/Lluciocc/vish-theme-collection/blob/main/themes/BreezeDark.yml)
+
 ### Screenshot
 <img width="3072" height="1664" alt="image" src="https://github.com/user-attachments/assets/b69ab292-514f-4b78-8d0f-27f50b32fc81" />
 
