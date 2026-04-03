@@ -36,7 +36,18 @@ Breeze Dark theme inspired from KDE Breeze dark palette.
 ### Author
 [Half-and-Xat](https://github.com/Half-and-Xat) 
 
-## Other Theme ....
+## Ember Dark
+### Link 
+Here is the link for [Ember Dark.](https://github.com/Lluciocc/vish-theme-collection/blob/main/themes/EmberDark.yml)
+
+### Screenshot
+<img width="3072" height="1664" alt="image" src="https://github.com/user-attachments/assets/48228433-15bd-4672-8a40-282ec351bdd4" />
+
+### Description
+Warm dark theme with orange/red accents inspired by embers and firelight.
+
+### Author
+[Lluciocc](https://github.com/Lluciocc) 
 
 ## LICENSE
 This project is licensed under the APACHE2.0 License. See the [LICENSE file](LICENSE) file for details.
