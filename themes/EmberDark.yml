@@ -1,0 +1,12 @@
+name: EmberDark
+description: Warm dark theme with orange/red accents inspired by embers and firelight.
+
+theme:
+  TYPE: "dark"
+  BACKGROUND: "#1A1412"
+  PANEL: "#2A1E1A"
+  TEXT: "#F5E9E2"
+  TEXT_INV: "#0B0605"
+  BUTTON: "#5A3A2E"
+  BUTTON_HOVER: "#FF7849"
+  BUTTON_PRESSED: "#C4451C"
