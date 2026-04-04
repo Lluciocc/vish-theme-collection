@@ -3,6 +3,7 @@ description: Warm dark theme with orange/red accents inspired by embers and fire
 
 theme:
   TYPE: "dark"
+  ACCENT: "#FF5A2A"
   BACKGROUND: "#1A1412"
   PANEL: "#2A1E1A"
   TEXT: "#F5E9E2"
