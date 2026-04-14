@@ -46,6 +46,16 @@ Here is the link for [Ember Dark.](https://github.com/Lluciocc/vish-theme-collec
 ### Description
 Warm dark theme with orange/red accents inspired by embers and firelight.
 
+## Emerald Dark
+### Link 
+Here is the link for [Emerald Dark.](https://github.com/Lluciocc/vish-theme-collection/blob/main/themes/EmeraldDark.yml)
+
+### Screenshot
+<img width="3072" height="1664" alt="image" src="https://github.com/user-attachments/assets/cc67a2bb-d468-4398-84aa-7f4ac4cb7199" />
+
+### Description
+Dark theme with deep green accents inspired by forest and calm nature tones.
+
 ### Author
 [Lluciocc](https://github.com/Lluciocc) 
 

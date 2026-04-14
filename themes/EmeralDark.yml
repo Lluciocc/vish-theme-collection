@@ -1,0 +1,13 @@
+name: EmeraldDark
+description: Dark theme with deep green accents inspired by forest and calm nature tones.
+
+theme:
+  TYPE: "dark"
+  ACCENT: "#2ECC71"
+  BACKGROUND: "#121A16"
+  PANEL: "#1E2A24"
+  TEXT: "#E6F5EE"
+  TEXT_INV: "#050C08"
+  BUTTON: "#2E5A47"
+  BUTTON_HOVER: "#58D68D"
+  BUTTON_PRESSED: "#239B56"
